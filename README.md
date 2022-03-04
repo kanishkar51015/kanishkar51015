@@ -1,4 +1,4 @@
-### Hi there 👋
+BTech Computer Sciene Student from SRM Institute of Science and Technology, Ramapuram. Having expertice and also expanding my knowlege in Web Dev and AI Tracks.   
 
 <!--
 **kanishkar51015/kanishkar51015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
