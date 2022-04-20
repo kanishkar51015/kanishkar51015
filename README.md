@@ -1,4 +1,4 @@
-B.Tech Computer Sciene Student from SRM Institute of Science and Technology, Ramapuram. Gorwing programmer, Greedy learner, wanted to explore all the branches in  Computer Science.
+B.Tech Computer Sciene Student from SRM Institute of Science and Technology, Ramapuram. Growing programmer, Greedy learner, wanted to explore all the branches in  Computer Science.
 
 Things I have done:
 
