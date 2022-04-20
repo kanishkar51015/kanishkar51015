@@ -1,4 +1,16 @@
-BTech Computer Sciene Student from SRM Institute of Science and Technology, Ramapuram. Having expertice and also expanding my knowlege in Web Dev and AI Tracks.   
+B.Tech Computer Sciene Student from SRM Institute of Science and Technology, Ramapuram. Gorwing programmer, Greedy learner, wanted to explore all the branches in  Computer Science.
+
+Things I have done:
+
+ - Game Development
+ - Poster Designing
+ - Logo Designing
+ - UI/UX
+ - Front-end Web development
+ - Mobile App development
+ - Data Analytics
+ - Machine Learning
+ - Artificial Intelligence
 
 <!--
 **kanishkar51015/kanishkar51015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
