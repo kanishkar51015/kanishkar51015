@@ -1,6 +1,6 @@
 B.Tech Computer sciene gratuate, Growing programmer, Greedy learner, wanted to explore all the branches in Computer Science.
 
-### Things I have done:
+## Things I have done:
 
  - Game Development
  - Poster Designing
