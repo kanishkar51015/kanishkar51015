@@ -1,4 +1,4 @@
-B.Tech Computer sciene gratuate, Growing programmer, Greedy learner, wanted to explore all the branches in Computer Science.
+**B.Tech Computer science gratuate, Growing programmer, Greedy learner, wanted to explore all the branches in Computer Science**
 
 ## Things I have done:
 
