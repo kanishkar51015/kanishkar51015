@@ -1,13 +1,13 @@
-B.Tech Computer Sciene Student from SRM Institute of Science and Technology, Ramapuram. Growing programmer, Greedy learner, wanted to explore all the branches in  Computer Science.
+B.Tech Computer sciene gratuate, Growing programmer, Greedy learner, wanted to explore all the branches in Computer Science.
 
-Things I have done:
+### Things I have done:
 
  - Game Development
  - Poster Designing
  - Logo Designing
  - UI/UX
- - Front-end Web development
- - Mobile App development
+ - Web development
+ - App development
  - Data Analytics
  - Machine Learning
  - Artificial Intelligence
