@@ -1,6 +1,6 @@
 ### :wave: Hi, I'm Kanishkar K
 
-A Enthusiastic problem solver
+🌟 Enthusiastic Problem Solver on a Mission to Explore and Innovate for a Better Future 🌟
 
 ## Things I have done:
 
