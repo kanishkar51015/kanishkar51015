@@ -1,4 +1,5 @@
-**B.Tech Computer science gratuate, Growing programmer, Greedy learner, wanted to explore all the branches in Computer Science**
+**Hi, I'm Kanishkar K**
+A Enthusiastic problem solver
 
 ## Things I have done:
 
