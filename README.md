@@ -4,7 +4,6 @@
 
 ## Things I have done:
 
- - Game Development
  - Poster Designing
  - Logo Designing
  - UI/UX
@@ -13,6 +12,7 @@
  - Data Analytics
  - Machine Learning
  - Artificial Intelligence
+ - Game Development
 
 <!--
 **kanishkar51015/kanishkar51015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
